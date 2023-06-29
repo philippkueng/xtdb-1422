@@ -1,0 +1,4 @@
+{:deps {com.xtdb/xtdb-core {:mvn/version "1.23.2"}
+        com.xtdb/xtdb-azure-blobs {:mvn/version "1.23.3"}
+        org.clojure/clojure {:mvn/version "1.11.1"}}
+ :paths ["src"]}
